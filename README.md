@@ -126,4 +126,4 @@ AUTHOR:
 
 Lisa Elsie M
 Aspiring Software Developer
-Focused on secure systems, backend logic, and practical problem-solving.
+Focused on secure systems and practical problem-solving.
