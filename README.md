@@ -125,5 +125,5 @@ Real-world security thinking at a junior developer level
 AUTHOR:
 
 Lisa Elsie M
-Aspiring Software Developer
+Software Developer
 Focused on secure systems and practical problem-solving.
